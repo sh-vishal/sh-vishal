@@ -1,5 +1,5 @@
 ## 📚 Learning:
-- Currently Learning ReactJs
+- Currently Learning Node.js
 
 ## 💬 Ask Me About:
 - PHP, Laravel, JavaScript, Vue.js, React.js, MySQL, Bootstrap-vue, jQuery
