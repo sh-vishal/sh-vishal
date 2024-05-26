@@ -2,7 +2,7 @@
 - Currently Learning Node.js
 
 ## 💬 Ask Me About:
-- PHP, Laravel, JavaScript, Vue.js, React.js, MySQL, Bootstrap-vue, jQuery
+- PHP, Laravel, JavaScript, Vue.js, MySQL, Bootstrap-vue, jQuery
 
 ## 📫 Reach Out:
 - [![Email](https://img.shields.io/badge/Email-vishal.shakya991%40gmail.com-%23EB1F6A.svg?style=flat&logo=Gmail&logoColor=white&logoBG=EB1F6A)](mailto:vishal.shakya991@gmail.com)
